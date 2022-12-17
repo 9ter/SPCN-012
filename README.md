@@ -1,5 +1,4 @@
 # SPCN-012
-สวัสดีครับ
 
 ## 1) Hypervisor Technology
 - Hypervisor (ไฮเปอร์ไวเซอร์) คือ อะไร?
